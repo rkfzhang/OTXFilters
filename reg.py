@@ -100,7 +100,7 @@ def getFileName(s):
 	return s
 
 def folderEmpty(path):
-	if not len(os.listdir(path)):
+	if len(os.listdir(path)) == 0:
 		return True
 	else:
 		return False
