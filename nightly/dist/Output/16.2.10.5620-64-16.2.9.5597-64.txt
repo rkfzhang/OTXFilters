@@ -1,0 +1,64 @@
+[Word2016]
+27918.docx
+2x031033.docx
+32129.docx
+44menu.docx
+5001.docx
+9B31_200.docx
+ADV37B.docx
+ADV37C.docx
+adv40.docx
+afedocument.docx
+AS-04.docx
+Axiom_LSS_0f20.docx
+C2FRMSPC_2000.docx
+CALENDAR.docx
+CG20_LET.docx
+chngform.docx
+CIBA_AL_0f04.docx
+cp0649_1_2000.docx
+Cstyle.docx
+Customer Discussion2000.docx
+EP-047T.docx
+example.docx
+FAX.docx
+FYI 3-0 OVERVIEW W2000 2000.docx
+FYI 3-0 OVERVIEW W2000.docx
+FYI 3-0 OVERVIEW.docx
+GMS2005.docx
+Guide2.docx
+HC-NP401.docx
+HPTest.docx
+Imagenation6-0profile_W2000.docx
+INST_MAN.docx
+JP20_LET.docx
+konfo resaved from word97.docx
+LR20_LET.docx
+Merged cells.docx
+NEW_TEMP.docx
+Note027.docx
+QUEST2.docx
+r420sum_2000.docx
+sample.docx
+Sample97.docx
+sample97_2000.docx
+SCANNING.docx
+Scenario-Format.docx
+schlumbr.docx
+shahal -word97.docx
+SPICER Corporation Word Benchmarking rev1.docx
+SPICER Corporation Word Benchmarking.docx
+Spi_rvw.docx
+TableTextDirection.docx
+tony.docx
+trouble.docx
+TRYOUT.docx
+tst_MS_WORD_002.docx
+Ugloss.docx
+USTART.docx
+W2000 new features.docx
+Wgroup.docx
+WINWORD2.docx
+Word97 Test.docx
+word97_1_2000.docx
+Zenith.docx
