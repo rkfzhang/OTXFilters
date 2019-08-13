@@ -1,6 +1,4 @@
 [Word2016]
-27918.docx
-2x031033.docx
 32129.docx
 44menu.docx
 5001.docx
@@ -62,3 +60,15 @@ WINWORD2.docx
 Word97 Test.docx
 word97_1_2000.docx
 Zenith.docx
+
+[PowerPt2016]
+4-4presentation.pptx
+career_fair_09_00.pptx
+DCT_TEST.pptx
+Feb 16 for Web.pptx
+MLPPTX.pptx
+MOSO.pptx
+nov10bdo.pptx
+PRSPP16.pptx
+TASTEPS.pptx
+

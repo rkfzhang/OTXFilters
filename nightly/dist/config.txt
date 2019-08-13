@@ -1,4 +1,5 @@
 [Builds]
-C:\dv_builds\16.2.10.5620-64	C:\dv_builds\16.2.9.5597-64
+C:\dv_builds\16.2.9.5597-64	C:\dv_builds\16.2.10.5620-64
 [Files]
 C:\Users\zhangr\Downloads\Word2016
+C:\Users\zhangr\Downloads\PowerPt2016

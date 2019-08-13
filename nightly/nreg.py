@@ -62,6 +62,7 @@ def write(file,text):
 	f.write("[" + text[0] + "]\n")
 	for i in range(1,len(text)):
 		f.write(text[i] + "\n")
+	f.write("\n")
 	f.close()
 
 def getName(build_path):
@@ -135,6 +136,7 @@ def checkFolder(build_path1,build_path2,folder,current):
 			files.append(fileNames[i])
 		removeTree(t1)
 		removeTree(t2)
+	removeTree(temp)
 	return files
 
 def emptyFolderContents(path):
@@ -154,9 +156,14 @@ def nreg():
 	l = len(build_paths)
 	for i in range(l):
 		for p in file_paths:
+			print(p)
 			files = checkFolder(pathFormat(build_paths[i][0]),pathFormat(build_paths[i][1]),pathFormat(p),pathFormat(current))
 			write(output_files[i],files)
+			#print(build_paths[i])
+			#
 
 
 
 nreg()
+#print(getInput())
+#print(getFilePaths(pathFormat("C:/imscore_testing/folders/Word2016")[-1]))
