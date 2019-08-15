@@ -156,11 +156,8 @@ def nreg():
 	l = len(build_paths)
 	for i in range(l):
 		for p in file_paths:
-			print(p)
 			files = checkFolder(pathFormat(build_paths[i][0]),pathFormat(build_paths[i][1]),pathFormat(p),pathFormat(current))
 			write(output_files[i],files)
-			#print(build_paths[i])
-			#
 
 
 
